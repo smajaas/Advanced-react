@@ -1,21 +1,21 @@
 import { useState } from 'react';
 
 const UseStateObject = () => {
-  const [name, setName] = useState('Ajaas');
-  const [age, setAge] = useState(39);
-  const [hobby, setHobby] = useState('Driving');
+  const [person, setPerson] = useState({
+    name: 'Ajaas',
+    age: 39,
+    hobby: 'Driving',
+  });
 
   const displayPerson = () => {
-    setName('Afaan');
-    setAge(5);
-    setHobby('Riding Bicycle');
+    setPerson({ name: 'Afaan', age: 6, hobby: 'Cycling' });
   };
 
   return (
     <>
-      <h3>{name}</h3>
-      <h3>{age}</h3>
-      <h4>Enjoys : {hobby}</h4>
+      <h3>{person.name}</h3>
+      <h3>{person.age}</h3>
+      <h4>Enjoys : {person.hobby}</h4>
       <button className='btn' onClick={displayPerson}>
         show person
       </button>
