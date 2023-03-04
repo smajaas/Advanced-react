@@ -1,4 +1,4 @@
-import Final from './react-projects/02-useEffect/final/04-fetch-data';
+import Final from './react-projects/03-conditional-rendering/final/02-multiple-returns-fetch-data';
 
 function App() {
   return (
