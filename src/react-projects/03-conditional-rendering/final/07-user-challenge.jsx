@@ -4,14 +4,12 @@ const UserChallenge = () => {
   const [user, setUser] = useState(null);
 
   const login = () => {
-    //normally connect to db or api
-    setUser({ name: 'Vegan food Truck' });
+    setUser({ name: 'Vegan Food Truck' });
   };
 
   const logout = () => {
     setUser(null);
   };
-
   return (
     <div>
       {user ? (
@@ -23,7 +21,7 @@ const UserChallenge = () => {
         </div>
       ) : (
         <div>
-          <h4>please login</h4>
+          <h4>Please login</h4>
           <button className='btn' onClick={login}>
             login
           </button>

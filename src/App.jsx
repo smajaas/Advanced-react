@@ -1,4 +1,4 @@
-import Final from './react-projects/03-conditional-rendering/final/07-user-challenge';
+import Final from './react-projects/02-useEffect/final/05-cleanup-function';
 
 function App() {
   return (
