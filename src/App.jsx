@@ -1,4 +1,4 @@
-import Final from './react-projects/03-conditional-rendering/final/05-short-circuit-examples';
+import Final from './react-projects/03-conditional-rendering/final/06-toggle-challenge';
 
 function App() {
   return (
