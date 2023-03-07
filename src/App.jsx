@@ -1,4 +1,4 @@
-import Final from './react-projects/02-useEffect/final/05-cleanup-function';
+import Final from './react-projects/04-project-structure/final/Navbar';
 
 function App() {
   return (
