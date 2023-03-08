@@ -1,4 +1,4 @@
-import Final from './react-projects/04-project-structure/final/Navbar';
+import Final from './react-projects/05-leverage-javascript/final/List';
 
 function App() {
   return (
