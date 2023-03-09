@@ -1,4 +1,4 @@
-import Final from './react-projects/06-forms/final/01-controlled-inputs';
+import Final from './react-projects/06-forms/final/02-user-challenge';
 
 function App() {
   return (
