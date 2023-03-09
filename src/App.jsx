@@ -1,4 +1,4 @@
-import Final from './react-projects/06-forms/final/02-user-challenge';
+import Final from './react-projects/06-forms/final/03-multiple-inputs';
 
 function App() {
   return (
