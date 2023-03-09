@@ -1,4 +1,4 @@
-import Final from './react-projects/05-leverage-javascript/final/List';
+import Final from './react-projects/06-forms/final/01-controlled-inputs';
 
 function App() {
   return (
