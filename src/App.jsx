@@ -1,4 +1,4 @@
-import Final from './react-projects/06-forms/final/04-other-inputs';
+import Final from './react-projects/06-forms/final/05-form-data';
 
 function App() {
   return (
