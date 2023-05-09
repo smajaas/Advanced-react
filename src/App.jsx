@@ -1,4 +1,4 @@
-import Final from './react-projects/07-useRef/final/01-useRef-basics';
+import Final from './react-projects/08-custom-hooks/final/02-fetch-data';
 
 function App() {
   return (
