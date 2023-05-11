@@ -1,10 +1,10 @@
-import Final from './react-projects/08-custom-hooks/final/02-fetch-data';
+import Final from './react-projects/09-context-api/final/context/Navbar';
 
 function App() {
   return (
-    <div className='container'>
-      <Final />
-    </div>
+    <>
+      <Final />;
+    </>
   );
 }
 
