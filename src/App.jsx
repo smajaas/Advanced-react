@@ -1,9 +1,11 @@
-import Final from './react-projects/09-context-api/final/context/Navbar';
+import Final from './react-projects/10-useReducer/final/01-useReducer';
 
 function App() {
   return (
     <>
-      <Final />;
+      <div className='container'>
+        <Final />;
+      </div>
     </>
   );
 }
