@@ -1,8 +1,7 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const Form = ({ addPerson }) => {
   const [name, setName] = useState('');
-
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!name) {
@@ -33,5 +32,4 @@ const Form = ({ addPerson }) => {
     </form>
   );
 };
-
 export default Form;
