@@ -1,4 +1,4 @@
-import Final from './react-projects/10-useReducer/final/01-useReducer';
+import Final from './react-projects/11-performance/starter/02-lower-state-challenge';
 
 function App() {
   return (
