@@ -1,4 +1,4 @@
-import Final from './react-projects/11-performance/starter/02-lower-state-challenge';
+import Final from './react-projects/11-performance/starter/03-hooks';
 
 function App() {
   return (
